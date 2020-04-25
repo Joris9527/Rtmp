@@ -1,0 +1,19 @@
+F:\IT记事本资源项目\C# VLC RTSP\CSharpVLC\VLCLib\bin\Debug\VLCLib.dll
+F:\IT记事本资源项目\C# VLC RTSP\CSharpVLC\VLCLib\bin\Debug\VLCLib.pdb
+F:\IT记事本资源项目\C# VLC RTSP\CSharpVLC\VLCLib\obj\Debug\VLCLib.dll
+F:\IT记事本资源项目\C# VLC RTSP\CSharpVLC\VLCLib\obj\Debug\VLCLib.pdb
+H:\Work\Develop\RtmpPlayer\VLCLib\bin\Debug\VLCLib.dll
+H:\Work\Develop\RtmpPlayer\VLCLib\bin\Debug\VLCLib.pdb
+H:\Work\Develop\RtmpPlayer\VLCLib\obj\Debug\VLCLib.dll
+H:\Work\Develop\RtmpPlayer\VLCLib\obj\Debug\VLCLib.pdb
+H:\Work\Develop\Client\RtmpPlayer\VLCLib\bin\Debug\VLCLib.dll
+H:\Work\Develop\Client\RtmpPlayer\VLCLib\bin\Debug\VLCLib.pdb
+H:\Work\Develop\Client\RtmpPlayer\VLCLib\obj\Debug\VLCLib.csprojResolveAssemblyReference.cache
+H:\Work\Develop\Client\RtmpPlayer\VLCLib\obj\Debug\VLCLib.dll
+H:\Work\Develop\Client\RtmpPlayer\VLCLib\obj\Debug\VLCLib.pdb
+G:\workspace\DGIS.VLC\VLCLib\bin\Debug\VLCLib.dll
+G:\workspace\DGIS.VLC\VLCLib\bin\Debug\VLCLib.pdb
+G:\workspace\DGIS.VLC\VLCLib\obj\Debug\VLCLib.csproj.CoreCompileInputs.cache
+G:\workspace\DGIS.VLC\VLCLib\obj\Debug\VLCLib.dll
+G:\workspace\DGIS.VLC\VLCLib\obj\Debug\VLCLib.pdb
+G:\workspace\DGIS.VLC\VLCLib\obj\Debug\VLCLib.csprojAssemblyReference.cache

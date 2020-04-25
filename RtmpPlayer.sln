@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtmpPlayer", "RtmpPlayer\RtmpPlayer.csproj", "{882BE0A3-2418-4B04-B2BF-D34758052CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLCLib", "VLCLib\VLCLib.csproj", "{CCE915D6-AF10-47DD-AC81-70E38D553B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882BE0A3-2418-4B04-B2BF-D34758052CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882BE0A3-2418-4B04-B2BF-D34758052CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882BE0A3-2418-4B04-B2BF-D34758052CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882BE0A3-2418-4B04-B2BF-D34758052CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE915D6-AF10-47DD-AC81-70E38D553B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE915D6-AF10-47DD-AC81-70E38D553B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE915D6-AF10-47DD-AC81-70E38D553B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE915D6-AF10-47DD-AC81-70E38D553B71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {8481C1E3-1C82-4FDA-9E0A-2960AF95B161}
+	EndGlobalSection
+EndGlobal
